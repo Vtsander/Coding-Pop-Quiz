@@ -1,10 +1,24 @@
 Coding Quiz
 
 TO DO:
-
+    Front Page/Start Button
+    Quiz questions
+    Quiz answers
+    Submit Button
+    Timer
+    Location for results
+    High Score Records
 
 What it's supposed to do:
-
+    Open to start page with working button
+    Take you to the questions/answers
+    Create clickable answers
+    Records the right/wrong guesses
+    Time the quiz
+    Reduce time if answer is wrong
+    End location for results
+    Option for entering high score
+    Show all high score records
 
 Errors:
     
