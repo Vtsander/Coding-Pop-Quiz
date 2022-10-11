@@ -1,6 +1,7 @@
 Coding Quiz
 
 TO DO:
+
     Front Page/Start Button
     Quiz questions
     Quiz answers
@@ -10,6 +11,7 @@ TO DO:
     High Score Records
 
 What it's supposed to do:
+
     Open to start page with working button
     Take you to the questions/answers
     Create clickable answers
@@ -21,6 +23,7 @@ What it's supposed to do:
     Show all high score records
 
 Errors:
+
     All the questions and buttons appear on the first page
     Not sure how to make them appear on pages one after another
     Not sure how to make it submit score and log it (might be creating a local storage??)
@@ -28,12 +31,14 @@ Errors:
 Assignment Instructions:
 
 User Story:
+
     AS A coding boot camp student
     I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
     SO THAT I can gauge my progress compared to my peers
 
 
 Acceptance Criteria:
+
     GIVEN I am taking a code quiz
     WHEN I click the start button
     THEN a timer starts and I am presented with a question
