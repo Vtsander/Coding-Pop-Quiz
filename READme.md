@@ -21,7 +21,8 @@ What it's supposed to do:
     Show all high score records
 
 Errors:
-    
+    All the questions and buttons appear on the first page
+    Not sure how to make them appear on pages one after another
 
 Assignment Instructions:
 

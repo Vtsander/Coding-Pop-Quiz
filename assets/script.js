@@ -1,30 +1,30 @@
 var myQuestions = [
     {
-        question: "",
+        question: "Which is not a web browser?",
         answers:{
-            a: '',
-            b: '',
-            c: ''
+            a: 'Line',
+            b: 'Opera',
+            c: 'Mozilla'
         },
         correctAnswer: 'a'
     },
     {
 		question: "What does API stand for?",
 		answers: {
-			a: '3',
-			b: '5',
-			c: '115'
+			a: 'Airway Programming Intern',
+			b: 'Application Programming Interface',
+			c: 'Application Purpose Incorporated'
 		},
 		correctAnswer: 'b'
 	},
     {
-        question: "",
+        question: "What is an example of an API?",
         answers:{
-            a: '',
-            b: '',
-            c: ''
+            a: 'CSS',
+            b: 'HTML',
+            c: 'jQuery'
         },
-        correctAnswer: 'a'
+        correctAnswer: 'c'
     },
 	{
 		question: "What does DOM stand for?",
@@ -36,11 +36,11 @@ var myQuestions = [
 		correctAnswer: 'c'
 	},
     {
-        question: "",
+        question: "What is not an example of what we use Web APIs for? ",
         answers:{
-            a: '',
-            b: '',
-            c: ''
+            a: 'Opening an application',
+            b: 'Creating and adding elements',
+            c: 'Adding and removing attributes and styles'
         },
         correctAnswer: 'a'
     },
