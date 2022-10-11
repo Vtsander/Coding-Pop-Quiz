@@ -23,6 +23,7 @@ What it's supposed to do:
 Errors:
     All the questions and buttons appear on the first page
     Not sure how to make them appear on pages one after another
+    Not sure how to make it submit score and log it (might be creating a local storage??)
 
 Assignment Instructions:
 
@@ -44,3 +45,7 @@ Acceptance Criteria:
     THEN the game is over
     WHEN the game is over
     THEN I can save my initials and score
+
+<img src="./assets/images/quiz 1.PNG">
+
+Link:
