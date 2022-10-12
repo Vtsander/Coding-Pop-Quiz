@@ -51,11 +51,8 @@ Acceptance Criteria:
     WHEN the game is over
     THEN I can save my initials and score
 
-Examples of Mock Up
+Screenshot of Page
 
-<img src="./assets/images/quiz 1.PNG">
-<img src="./assets/images/quiz 2.PNG">
-<img src="./assets/images/quiz 3.PNG">
-<img src="./assets/images/quiz 4.PNG">
+<img src="./assets/images/CodeQuiz.PNG">
 
-Link:
+Link:https://vtsander.github.io/Coding-Pop-Quiz/
