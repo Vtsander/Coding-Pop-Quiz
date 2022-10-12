@@ -49,6 +49,7 @@ var myQuestions = [
 var quizContainer = document.getElementById('quiz');
 var resultsContainer = document.getElementById('results');
 var submitButton = document.getElementById('submit');
+var startbtn = document.getElementById('start')
 
 document.getElementById('timer').innerHTML =
   01 + ":" + 11;
